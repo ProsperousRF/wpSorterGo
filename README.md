@@ -1,2 +1,3 @@
-# wpSorterGo
-Wallpaper sorter (GO edition)
+# Wallpaper sorter
+### (GO edition)
+
